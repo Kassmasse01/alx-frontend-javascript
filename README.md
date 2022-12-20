@@ -1,1 +1,1 @@
-THE README file of ES6 basic
+THE README for ALX Frontend
