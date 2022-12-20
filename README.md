@@ -1,1 +1,1 @@
-THE README for ALX Frontend
+README File of javascript frontend
